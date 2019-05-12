@@ -1,7 +1,18 @@
 # ProductLinRE
 
 ProducLinRE is an online and open source platform for key functionalities in Requirments Engineering  of Software Product Lines, especially product planning.  It provides a repository  of artifacts which are used in development of features within a product line and facilitates the application engineering process by automatic selection of relevant artifacts to each product.  Users can only generate the appropriate artifacts and documentation necessary to communicate with product developers by selecting features for a particular product.
+## Citation
+please cite our paper if you use ProductLinRE in your work
 
+
+@inproceedings{ghofrani2018productlinre,
+  title={ProductlinRE: online management tool for requirements engineering of software product lines},
+  author={Ghofrani, Javad and Fehlhaber, Anna Lena},
+  booktitle={Proceeedings of the 22nd International Conference on Systems and Software Product Line-Volume 2},
+  pages={17--22},
+  year={2018},
+  organization={ACM}
+}
 ## Getting Started
 
 ### Prerequisites
